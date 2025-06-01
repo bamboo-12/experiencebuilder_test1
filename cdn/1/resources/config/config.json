@@ -349,7 +349,8 @@
     }
   },
   "attributes": {
-    "portalUrl": "https://ecol-gis.maps.arcgis.com"
+    "portalUrl": "https://ecol-gis.maps.arcgis.com",
+    "clientId": "xtW4jN7MaC84yCwa"
   },
   "sharedThemeVariables": {
     "header": {},
